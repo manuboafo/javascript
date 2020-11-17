@@ -9,7 +9,7 @@ function number(num) {
 		case 5:
 		case 6:
 		case 7:
-			return "mid";
+			return "average";
 			break;
 		case 8:
 		case 9:
